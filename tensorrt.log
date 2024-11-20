@@ -1,0 +1,22 @@
+[I 241029 18:47:56 TensorRT_Wrapper:31] Initializing TensorRT Wrapper
+[I 241029 18:47:56 TensorRT_Wrapper:60] Building TensorRT engine from ONNX
+[I 241029 18:48:02 TensorRT_Wrapper:72] Enabled FP16 precision
+[E 241029 18:48:02 TensorRT_Wrapper:147] Error parsing model: [Errno 2] No such file or directory: 'assets/model.onnx'
+[I 241029 18:48:03 TensorRT_Wrapper:60] Building TensorRT engine from ONNX
+[I 241029 18:48:04 TensorRT_Wrapper:72] Enabled FP16 precision
+[E 241029 18:48:04 TensorRT_Wrapper:147] Error parsing model: [Errno 2] No such file or directory: 'assets/model.onnx'
+[I 241029 19:03:42 TensorRT_Wrapper:31] Initializing TensorRT Wrapper
+[I 241029 19:03:42 TensorRT_Wrapper:60] Building TensorRT engine from ONNX
+[I 241029 19:03:48 TensorRT_Wrapper:72] Enabled FP16 precision
+[I 241029 19:03:49 TensorRT_Wrapper:143] ONNX model parsed successfully
+[I 241029 19:03:49 TensorRT_Wrapper:166] Optimization profile created successfully
+[I 241029 19:03:49 TensorRT_Wrapper:88] Building serialized engine
+[I 241029 19:04:20 TensorRT_Wrapper:92] Engine built successfully
+[I 241029 19:04:20 TensorRT_Wrapper:184] Engine saved to assets/model.trt
+[I 241029 19:04:20 TensorRT_Wrapper:60] Building TensorRT engine from ONNX
+[I 241029 19:04:22 TensorRT_Wrapper:72] Enabled FP16 precision
+[I 241029 19:04:22 TensorRT_Wrapper:143] ONNX model parsed successfully
+[I 241029 19:04:22 TensorRT_Wrapper:166] Optimization profile created successfully
+[I 241029 19:04:22 TensorRT_Wrapper:88] Building serialized engine
+[I 241029 19:04:52 TensorRT_Wrapper:92] Engine built successfully
+[I 241029 19:04:52 TensorRT_Wrapper:184] Engine saved to assets/model.trt
