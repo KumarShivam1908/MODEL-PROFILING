@@ -84,7 +84,7 @@ trt_model.build_engine()
 |------------|--------------|-------------------------|------------------------|
 | PyTorch    | 89.2         | 0.0116                 | 0.5141                |
 | ONNX       | 89.2         | 0.0151                 | 0.0052                |
-| TensorRT   | 89.1         | 0.0022                 | 0.0007                |
+| TensorRT   | 89.5         | 0.0022                 | 0.0007                |
 
 ## Key Observations:
 - All models maintain similar accuracy (~89%).
